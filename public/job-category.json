@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "logo": "https://i.ibb.co/t84XSth/chip-1.png",
+        "name": "AI/ML Engineer",
+        "vacancies": 5
+    },
+    {
+        "id" : 2,
+        "logo": "https://i.ibb.co/2dHKzQb/business-1.png",
+        "name": "Web Developer",
+        "vacancies": 7
+    },
+    {
+        "id" : 3,
+        "logo": "https://i.ibb.co/z2LS1nj/accounts-1.png",
+        "name": "Cloud Architect",
+        "vacancies": 3
+    },
+    {
+        "id" : 4,
+        "logo": "https://i.ibb.co/xHkhqZG/social-media-1.png",
+        "name": "Cybersecurity Analyst",
+        "vacancies": 4
+    }
+]

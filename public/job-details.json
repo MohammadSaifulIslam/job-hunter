@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "companyLogo": "https://www.pngall.com/wp-content/uploads/5/Google-Logo-PNG-Free-Image.png",
+      "jobTitle": "Software Developer",
+      "companyName": "Google",
+      "remoteOrOnsite": "Remote",
+      "location": "San Francisco, CA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "80,000 - 120,000 USD",
+      "jobDescription": "We are seeking a software developer to help us build and maintain our web and mobile applications.",
+      "jobResponsibilities": [
+        "Write clean, maintainable, and efficient code",
+        "Design and implement scalable and robust software solutions",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Participate in code and design reviews to maintain code quality and consistency",
+        "Stay up-to-date with emerging trends and technologies in software development"
+      ],
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "2+ years of experience in software development",
+      "contactInformation": {
+        "phone": "123-456-7890",
+        "email": "hr@company1.com"
+      }
+    },
+    {
+      "id": 2,
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png",
+      "jobTitle": "Data Scientist",
+      "companyName": "Meta",
+      "remoteOrOnsite": "Onsite",
+      "location": "New York, NY",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "120,000 - 150,000 USD",
+      "jobDescription": "We are looking for a data scientist to work on our data analytics and machine learning projects.",
+      "jobResponsibilities": [
+        "Collect, process, and analyze large data sets",
+        "Build and deploy machine learning models for predictive analytics",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Present findings and insights to stakeholders and leadership",
+        "Stay up-to-date with emerging trends and technologies in data science and machine learning"
+      ],
+      "educationalRequirements": "Master's or PhD degree in Computer Science, Statistics, or related field",
+      "experiences": "5+ years of experience in data science or machine learning",
+      "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "careers@company2.com"
+      }
+    },
+    {
+      "id": 3,
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png",
+      "jobTitle": "Front-End Developer",
+      "companyName": "Netflix",
+      "remoteOrOnsite": "Remote",
+      "location": "Austin, TX",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "90,000 - 120,000 USD",
+      "jobDescription": "We are seeking a front-end developer to help us build and maintain our web applications.",
+      "jobResponsibilities": [
+        "Develop and maintain user interfaces for web applications",
+        "Collaborate with back-end developers to integrate front-end functionality",
+        "Optimize application for maximum speed and scalability",
+        "Stay up-to-date with emerging trends and technologies in front-end development",
+        "Participate in code and design reviews to maintain code quality and consistency"
+      ],
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "5+ years of experience in data science or machine learning",
+      "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "careers@company2.com"
+      }
+    },
+    {
+      "id": 4,
+      "companyLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAABOCAMAAADLqJhBAAAAb1BMVEX///8AAAC5ubmfn58WFhbz8/P8/PxHR0fBwcHd3d17e3utra2Kiorj4+PNzc329vYzMzOVlZVxcXHHx8e2tranp6daWlpLS0vt7e0oKCheXl4dHR2RkZE8PDzY2NhVVVVoaGgrKyt5eXkODg43Nze1rpsjAAAE8UlEQVR4nO2d2XbiMBBE5bAvYV+HLCTM/3/jhAAn4ISxWq6yFKj7jlotX2zJttpu9sBl1nY+0LrR8wp/YMjoxczQgVZ2Qcfw0zBowz5zi4xM3yvDP6zwG8MwPzI6sDN0oHKxXhkZ71m7NqvpE49eGQ5Y4Z8Mw0wRy++PdaBysR4YGe/5GHZW00danik+k+L7eX2AIpbFjsrFoh39j2Gvsdo+MPXMkHTKerWMMkOspaUD1YvVJ6R8yprT9BHfExbrcm85YVHEMslRvVhNQsofvOzbnnLaPuB/YBuM8F3TKBPEsnWgerE4F6zJoe0Jo+0DNUOKhIlk3TbIeLFGtg5EEMuN4ElnWfPY9huh7U8WphS78PimCyFDrIatAzHEWsGT/uo35SqUmf+v8HtqvguHE3CxVsYOxBALPxU6uyVOsDaze4WewPvd8z8DLNbGeL6KJJbrYdN+OG97tcM2vse00j+CnO4NzNGxYv2xpx9HLOzsNneZaMJX+5Zb3l/MUeFH1suQA4tleUh5IpJY7gWW9fr7sGNPiKPQQVm1ihv3YBwSGyjWxHwZ3BNLLOfeMWn/eDYZ4u7CbiyP9PNMyy+A34MOK06srXE5eiKeWK4DeA1gcu0q0ZxDThdb++zmkpdumSlfaz4MjIsRazMO09pFFcu5xrzUqvy5FpZ2J/eUeLtqXAGS5fBa64U0ixu/Rk4s+6q2LFHF2hNj2HO3L0PmpqkjsWIgsfhILIlFQWJJLAoSS2JRkFgSi4LEklgUJJbEoiCxJBYFiSWxKEgsiUVBYkksChJLYlGQWHch1t/KOyCx4GKNayQsr5LmxNrMIR0wvFASQawpIsdvOVtedOSKRds0uzZ0glIUJEtbLE7xBsurnlyxOMc0s738LrFQpCOW21IStO0ZlVgoEhKLs2c221r6ILFQJCSWe6JkGL2MkcQqgn674Y2QoKVOo8TCkZRYhIuhZUnoJBaOpMQi1Nk1brOXWCjSEgtXuOHIizG+xEKRmFjguoXmDdkSC0VqYkErk1jPVxILR3Ji4QrqtAK2+kssFOmJhSqoMw8JLbFQpCiW65QvRdoPqzcjsVAkKZZzq3GZElmLWWjlkwbiY1jt/IsaEuv/VPuiXzMYbr88GP9qsRpBY56vYpquWL+Y3y1W2CRCYlWAxJJYFCSWxKIgsSQWBYklsShILIlFQWJJLAoSS2JRkFgSi4LEklgUJJbEoiCxJBYFiSWxKODECvw4nYlbFyuJMkaXrHpBAef5D/+Fi9UHpF8U/dbFopUxCi3LN8N86TUrIxaATVHIWxerAx/SI7Wg7iD3oUUVq7DGwK2L5ZbwMT0Q8M1xN4P2IKpYhUf45sXCfUj9gq29J6vn4mYtxBRrVxjy5sVygI9d/4D9hIXcM/tJTLGKd8HdvlgN9KDusa8J8ZUFY4pVHPL2xQLPbD6xF9TGz3JiijUrDnkHYhFuOVi32TfX8C7EFOvVI+Q9iAX/w5ofiZTZJ3uVeGL5RL4LscAH1lxuhnPLI5pYXguX+xALemjNT9o4u82jieWX/52IlY8SzsK8136KCp0jjlgjz/nlvYjlBjvIuHqsh3I0IXF/IIpY3uWi70Ys5+b10sMa8oAQdq7MYxALdc9/6T8NSEGs+hnU97EGT8tdPZRNdxoS8zErbjoIi1iDNoDe1rJq6V/mHShWO9fKwP0D03t2DmMruhUAAAAASUVORK5CYII=",
+      "jobTitle": "Cloud Engineer",
+      "companyName": "Tesla",
+      "remoteOrOnsite": "Onsite",
+      "location": "Seattle, WA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "100,000 - 140,000 USD",
+      "jobDescription": "We are looking for a cloud engineer to design, deploy, and maintain our cloud infrastructure.",
+      "jobResponsibilities": [
+        "Design and implement cloud-based solutions for web applications",
+        "Migrate existing applications and services to the cloud",
+        "Collaborate with cross-functional teams to identify and solve complex problems",
+        "Optimize cloud infrastructure for maximum speed and scalability",
+        "Stay up-to-date with emerging trends and technologies in cloud computing"
+      ],
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in cloud engineering or architecture",
+      "contactInformation": {
+        "phone": "206-555-1234",
+        "email": "careers@company4.com"
+      }
+    },
+    {
+      "id": 5,
+      "companyLogo": "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png",
+      "jobTitle": "Backend Developer",
+      "companyName": "Microsoft",
+      "remoteOrOnsite": "Remote",
+      "location": "Chicago, IL",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "90,000 - 120,000 USD",
+      "jobDescription": "We are seeking a backend developer to help us build and maintain our web applications.",
+      "jobResponsibilities": [
+        "Develop and maintain server-side applications and services",
+        "Collaborate with front-end developers to integrate back-end functionality",
+        "Optimize application for maximum speed and scalability",
+        "Stay up-to-date with emerging trends and technologies in back-end development",
+        "Participate in code and design reviews to maintain code quality and consistency"
+      ],
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in back-end development or software engineering",
+      "contactInformation": {
+        "phone": "312-555-5678",
+        "email": "hr@company5.com"
+      }
+    },
+    {
+      "id": 6,
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Open AI",
+      "remoteOrOnsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fullTimeOrPartTime": "Full-time",
+      "salary": "80,000 - 110,000 USD",
+      "jobDescription": "We are seeking a UI/UX designer to help us design and improve our web and mobile applications.",
+      "jobResponsibilities": [
+        "Design and implement user interfaces for web and mobile applications",
+        "Collaborate with cross-functional teams to identify and solve user experience issues",
+        "Conduct user research and usability testing to improve product design",
+        "Stay up-to-date with emerging trends and technologies in UI/UX design",
+        "Create and maintain design guidelines and standards"
+      ],
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in back-end development or software engineering",
+      "contactInformation": {
+        "phone": "312-555-5678",
+        "email": "hr@company5.com"
+      }
+    }
+]
